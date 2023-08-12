@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VehicleCollections/1.0.0": {
+        "dependencies": {
+          "VehicleManagementSystem": "1.0.0"
+        },
+        "runtime": {
+          "VehicleCollections.dll": {}
+        }
+      },
+      "VehicleManagementSystem/1.0.0": {
+        "runtime": {
+          "VehicleManagementSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleCollections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <Manual>
+    <Vehicle>
+      <Type>Car</Type>
+      <EnginePower>100hp</EnginePower>
+      <EngineVolume>1.8</EngineVolume>
+      <ChassisWheels>4</ChassisWheels>
+      <ChassisNumber>1234</ChassisNumber>
+      <ChassisLoadCapacity>1000</ChassisLoadCapacity>
+      <TransmissionGears>5</TransmissionGears>
+      <TransmissionManufacturer>Manufacturer</TransmissionManufacturer>
+    </Vehicle>
+    <Vehicle>
+      <Type>Bus</Type>
+      <EnginePower>200hp</EnginePower>
+      <EngineVolume>2.5</EngineVolume>
+      <ChassisWheels>4</ChassisWheels>
+      <ChassisNumber>4321</ChassisNumber>
+      <ChassisLoadCapacity>2000</ChassisLoadCapacity>
+      <TransmissionGears>6</TransmissionGears>
+      <TransmissionManufacturer>Manufacturer</TransmissionManufacturer>
+    </Vehicle>
+  </Manual>
+  <Automatic>
+    <Vehicle>
+      <Type>Truck</Type>
+      <EnginePower>300hp</EnginePower>
+      <EngineVolume>5</EngineVolume>
+      <ChassisWheels>6</ChassisWheels>
+      <ChassisNumber>5678</ChassisNumber>
+      <ChassisLoadCapacity>5000</ChassisLoadCapacity>
+      <TransmissionGears>8</TransmissionGears>
+      <TransmissionManufacturer>Manufacturer</TransmissionManufacturer>
+    </Vehicle>
+    <Vehicle>
+      <Type>Scooter</Type>
+      <EnginePower>50hp</EnginePower>
+      <EngineVolume>0.5</EngineVolume>
+      <ChassisWheels>2</ChassisWheels>
+      <ChassisNumber>9876</ChassisNumber>
+      <ChassisLoadCapacity>100</ChassisLoadCapacity>
+      <TransmissionGears>1</TransmissionGears>
+      <TransmissionManufacturer>Manufacturer</TransmissionManufacturer>
+    </Vehicle>
+  </Automatic>
+</Vehicles>

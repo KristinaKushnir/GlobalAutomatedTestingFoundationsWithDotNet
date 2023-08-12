@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <Vehicle>
+    <Type>Truck</Type>
+    <EngineType>Diesel</EngineType>
+    <EngineSerialNumber>DEF456</EngineSerialNumber>
+    <EnginePower>300hp</EnginePower>
+  </Vehicle>
+  <Vehicle>
+    <Type>Bus</Type>
+    <EngineType>Gasoline</EngineType>
+    <EngineSerialNumber>GHI789</EngineSerialNumber>
+    <EnginePower>200hp</EnginePower>
+  </Vehicle>
+</Vehicles>

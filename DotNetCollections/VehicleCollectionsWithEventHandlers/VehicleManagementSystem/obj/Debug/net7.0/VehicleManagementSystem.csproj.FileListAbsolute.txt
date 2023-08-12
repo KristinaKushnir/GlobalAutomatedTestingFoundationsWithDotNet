@@ -1,0 +1,15 @@
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/bin/Debug/net7.0/VehicleManagementSystem
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/bin/Debug/net7.0/VehicleManagementSystem.deps.json
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/bin/Debug/net7.0/VehicleManagementSystem.runtimeconfig.json
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/bin/Debug/net7.0/VehicleManagementSystem.dll
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/bin/Debug/net7.0/VehicleManagementSystem.pdb
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.csproj.AssemblyReference.cache
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.AssemblyInfoInputs.cache
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.AssemblyInfo.cs
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.csproj.CoreCompileInputs.cache
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.dll
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/refint/VehicleManagementSystem.dll
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.pdb
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/VehicleManagementSystem.genruntimeconfig.cache
+/Users/kristinagrincevic/Projects/VehicleCollections/VehicleManagementSystem/obj/Debug/net7.0/ref/VehicleManagementSystem.dll
