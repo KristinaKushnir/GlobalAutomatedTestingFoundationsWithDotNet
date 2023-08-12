@@ -1,0 +1,15 @@
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/bin/Debug/net7.0/RefactoringFlyableApp
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/bin/Debug/net7.0/RefactoringFlyableApp.deps.json
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/bin/Debug/net7.0/RefactoringFlyableApp.runtimeconfig.json
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/bin/Debug/net7.0/RefactoringFlyableApp.dll
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/bin/Debug/net7.0/RefactoringFlyableApp.pdb
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.csproj.AssemblyReference.cache
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.AssemblyInfoInputs.cache
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.AssemblyInfo.cs
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.csproj.CoreCompileInputs.cache
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.dll
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/refint/RefactoringFlyableApp.dll
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.pdb
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/RefactoringFlyableApp.genruntimeconfig.cache
+/Users/kristinagrincevic/Downloads/RefactoringFlyableApp/obj/Debug/net7.0/ref/RefactoringFlyableApp.dll

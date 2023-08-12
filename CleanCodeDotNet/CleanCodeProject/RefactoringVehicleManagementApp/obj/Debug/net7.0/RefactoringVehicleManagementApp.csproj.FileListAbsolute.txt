@@ -1,0 +1,15 @@
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/bin/Debug/net7.0/RefactoringVehicleManagementApp
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/bin/Debug/net7.0/RefactoringVehicleManagementApp.deps.json
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/bin/Debug/net7.0/RefactoringVehicleManagementApp.runtimeconfig.json
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/bin/Debug/net7.0/RefactoringVehicleManagementApp.dll
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/bin/Debug/net7.0/RefactoringVehicleManagementApp.pdb
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.csproj.AssemblyReference.cache
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.AssemblyInfoInputs.cache
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.AssemblyInfo.cs
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.csproj.CoreCompileInputs.cache
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.dll
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/refint/RefactoringVehicleManagementApp.dll
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.pdb
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/RefactoringVehicleManagementApp.genruntimeconfig.cache
+/Users/kristinagrincevic/Downloads/RefactoringVehicleManagementApp/obj/Debug/net7.0/ref/RefactoringVehicleManagementApp.dll

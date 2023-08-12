@@ -1,0 +1,5 @@
+/Users/kristinagrincevic/Downloads/CleanCodeProject/obj/Debug/net7.0/CleanCodeProject.csproj.AssemblyReference.cache
+/Users/kristinagrincevic/Downloads/CleanCodeProject/obj/Debug/net7.0/CleanCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinagrincevic/Downloads/CleanCodeProject/obj/Debug/net7.0/CleanCodeProject.AssemblyInfoInputs.cache
+/Users/kristinagrincevic/Downloads/CleanCodeProject/obj/Debug/net7.0/CleanCodeProject.AssemblyInfo.cs
+/Users/kristinagrincevic/Downloads/CleanCodeProject/obj/Debug/net7.0/CleanCodeProject.csproj.CoreCompileInputs.cache

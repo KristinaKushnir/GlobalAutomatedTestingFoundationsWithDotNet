@@ -1,0 +1,15 @@
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/bin/Debug/net7.0/RefactoringNumberConverter
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/bin/Debug/net7.0/RefactoringNumberConverter.deps.json
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/bin/Debug/net7.0/RefactoringNumberConverter.runtimeconfig.json
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/bin/Debug/net7.0/RefactoringNumberConverter.dll
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/bin/Debug/net7.0/RefactoringNumberConverter.pdb
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.csproj.AssemblyReference.cache
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.AssemblyInfoInputs.cache
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.AssemblyInfo.cs
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.csproj.CoreCompileInputs.cache
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.dll
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/refint/RefactoringNumberConverter.dll
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.pdb
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/RefactoringNumberConverter.genruntimeconfig.cache
+/Users/kristinagrincevic/Downloads/RefactoringNumberConverter/obj/Debug/net7.0/ref/RefactoringNumberConverter.dll
