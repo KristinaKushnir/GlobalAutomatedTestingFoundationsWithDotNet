@@ -1,0 +1,15 @@
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/bin/Debug/net7.0/NumberConverter
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/bin/Debug/net7.0/NumberConverter.deps.json
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/bin/Debug/net7.0/NumberConverter.runtimeconfig.json
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/bin/Debug/net7.0/NumberConverter.dll
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/bin/Debug/net7.0/NumberConverter.pdb
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.csproj.AssemblyReference.cache
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.AssemblyInfoInputs.cache
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.AssemblyInfo.cs
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.csproj.CoreCompileInputs.cache
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.dll
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/refint/NumberConverter.dll
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.pdb
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/NumberConverter.genruntimeconfig.cache
+/Users/kristinagrincevic/Projects/NumberConverter/NumberConverter/obj/Debug/net7.0/ref/NumberConverter.dll
