@@ -1,0 +1,96 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+Started by user Kristina Kushnir\
+Running as SYSTEM\
+Building in workspace /Users/kristinagrincevic/.jenkins/workspace/bringItOn\
+The recommended git tool is: NONE\
+No credentials specified\
+ > git rev-parse --resolve-git-dir /Users/kristinagrincevic/.jenkins/workspace/bringItOn/.git # timeout=10\
+Fetching changes from the remote Git repository\
+ > git config remote.origin.url https://github.com/vitalliuss/helloci # timeout=10\
+Fetching upstream changes from https://github.com/vitalliuss/helloci\
+ > git --version # timeout=10\
+ > git --version # 'git version 2.37.1 (Apple Git-137.1)'\
+ > git fetch --tags --force --progress -- https://github.com/vitalliuss/helloci +refs/heads/*:refs/remotes/origin/* # timeout=10\
+ > git rev-parse refs/remotes/origin/master^\{commit\} # timeout=10\
+Checking out Revision 71518a34152cb6c6039a2443ced60af30a31f14c (refs/remotes/origin/master)\
+ > git config core.sparsecheckout # timeout=10\
+ > git checkout -f 71518a34152cb6c6039a2443ced60af30a31f14c # timeout=10\
+Commit message: "Merge pull request #16 from EvgeniyRozhenko/fix-pom-utf8"\
+ > git rev-list --no-walk 71518a34152cb6c6039a2443ced60af30a31f14c # timeout=10\
+Parsing POMs\
+Established TCP socket on 64937\
+[Java] $ /Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/bin/java -cp /Users/kristinagrincevic/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.14.jar:/Users/kristinagrincevic/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven/boot/plexus-classworlds-2.7.0.jar:/Users/kristinagrincevic/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven/conf/logging jenkins.maven3.agent.Maven35Main /Users/kristinagrincevic/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven /Users/kristinagrincevic/.jenkins/war/WEB-INF/lib/remoting-3107.v665000b_51092.jar /Users/kristinagrincevic/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.14.jar /Users/kristinagrincevic/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.14.jar 64937\
+<===[JENKINS REMOTING CAPACITY]===>channel started\
+Executing Maven:  -B -f /Users/kristinagrincevic/.jenkins/workspace/bringItOn/Java/pom.xml test\
+[INFO] Scanning for projects...\
+[INFO] \
+[INFO] ---------------< com.github.vitalliuss.helloci:hello-ci >---------------\
+[INFO] Building hello-ci 1.0-SNAPSHOT\
+[INFO]   from pom.xml\
+[INFO] --------------------------------[ jar ]---------------------------------\
+[INFO] \
+[INFO] --- resources:3.3.1:resources (default-resources) @ hello-ci ---\
+[INFO] skip non existing resourceDirectory /Users/kristinagrincevic/.jenkins/workspace/bringItOn/Java/src/main/resources\
+[INFO] \
+[INFO] --- compiler:3.11.0:compile (default-compile) @ hello-ci ---\
+[INFO] Nothing to compile - all classes are up to date\
+[INFO] \
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ hello-ci ---\
+[INFO] skip non existing resourceDirectory /Users/kristinagrincevic/.jenkins/workspace/bringItOn/Java/src/test/resources\
+[INFO] \
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ hello-ci ---\
+[INFO] Nothing to compile - all classes are up to date\
+[INFO] \
+[INFO] --- surefire:3.0.0-M1:test (default-test) @ hello-ci ---\
+[INFO] \
+[INFO] -------------------------------------------------------\
+[INFO]  T E S T S\
+[INFO] -------------------------------------------------------\
+[INFO] Running com.github.vitalliuss.helloci.AppTest\
+[ERROR] Tests run: 5, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 0.208 s <<< FAILURE! - in com.github.vitalliuss.helloci.AppTest\
+[ERROR] testShouldBeFailed(com.github.vitalliuss.helloci.AppTest)  Time elapsed: 0.033 s  <<< FAILURE!\
+java.lang.AssertionError\
+	at com.github.vitalliuss.helloci.AppTest.testShouldBeFailed(AppTest.java:21)\
+\
+[INFO] \
+[INFO] Results:\
+[INFO] \
+[ERROR] Failures: \
+[ERROR]   AppTest.testShouldBeFailed:21\
+[INFO] \
+[ERROR] Tests run: 5, Failures: 1, Errors: 0, Skipped: 1\
+[INFO] \
+[ERROR] There are test failures.\
+\
+Please refer to /Users/kristinagrincevic/.jenkins/workspace/bringItOn/Java/target/surefire-reports for the individual test results.\
+Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.\
+[JENKINS] Recording test results\
+[INFO] ------------------------------------------------------------------------\
+[INFO] BUILD SUCCESS\
+[INFO] ------------------------------------------------------------------------\
+[INFO] Total time:  8.906 s\
+[INFO] Finished at: 2023-07-22T18:24:07+02:00\
+[INFO] ------------------------------------------------------------------------\
+
+\f1 \uc0\u1054 \u1078 \u1080 \u1076 \u1072 \u1102 
+\f0  
+\f1 \uc0\u1087 \u1086 \u1082 \u1072 
+\f0  Jenkins 
+\f1 \uc0\u1079 \u1072 \u1082 \u1086 \u1085 \u1095 \u1080 \u1090 
+\f0  
+\f1 \uc0\u1089 \u1073 \u1086 \u1088 
+\f0  
+\f1 \uc0\u1076 \u1072 \u1085 \u1085 \u1099 \u1093 
+\f0 \
+[JENKINS] Archiving /Users/kristinagrincevic/.jenkins/workspace/bringItOn/Java/pom.xml to com.github.vitalliuss.helloci/hello-ci/1.0-SNAPSHOT/hello-ci-1.0-SNAPSHOT.pom\
+channel stopped\
+Archiving artifacts\
+Finished: UNSTABLE}
